@@ -1,19 +1,9 @@
 ---
 layout: page
-title: About Pixyll
+title: About I'm Fred
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+My name is Fred Crimins.  I'm Fred, and this is my blog.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+I've kept most of these thoughts to myself in my gmail account for a long time, but I wanted somewhere more permanant to write them down.  I'm a little uneasy about making them all public, but what the heck.  Perhaps someone will find these and have something to contribute, and if nobody ever does, then that's fine too.
